@@ -148,7 +148,7 @@ As rotas do backend possuem exemplos de como você pode usar esses middlewares, 
    **Payload esperado:**  
    ```json
    {
-     "username": "usuario",",
+     "username": "usuario",
      "password": "senha123"
    }
    ```
